@@ -6,9 +6,16 @@
     "owner": "sachinmannewars-team",
     "orientation": "portrait",
     "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
     "android": {
       "package": "com.nilkanth.ai"
     },
+    "web": {},
     "extra": {
       "eas": {
         "projectId": "f6d85022-6b0e-46e7-97cb-62a42f34b877"
