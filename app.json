@@ -3,6 +3,7 @@
     "name": "Nilkanth-AI",
     "slug": "nilkanth-ai",
     "version": "1.0.0",
+    "owner": "sachinmannewar",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
