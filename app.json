@@ -3,7 +3,6 @@
     "name": "Nilkanth-AI",
     "slug": "nilkanth-ai",
     "version": "1.0.0",
-    "orientation": "portrait",
     "android": {
       "package": "com.nilkanth.ai"
     }
